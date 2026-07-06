@@ -1,7 +1,6 @@
 # Módulos
 
 ## Backoffice
-
 - Authentication
 - Billboard
 - Billing
@@ -18,14 +17,35 @@
 - Tickets
 
 ## Web
-
+- Business
+- CandyStore
+- Cinemas
+- Events
+- FavoriteGenres
 - Home
+- Loyalty
+- MovieDetails
+- Profile
+- PurchaseHistory
+- Releases
+- RoomRental
+- Subscriptions
+- UpComing
 
 
 
 ## Mobile
-
-- Inicio
-- Perfil
-- Compras
-...
+- Business
+- CandyStore
+- Cinemas
+- Events
+- FavoriteGenres
+- Home
+- Loyalty
+- MovieDetails
+- Profile
+- PurchaseHistory
+- Releases
+- RoomRental
+- Subscriptions
+- UpComing
