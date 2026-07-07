@@ -9,13 +9,7 @@
 
 ## Flujo
 
-Cliente
-↓
-Frontend
-↓
-API
-↓
-Base de Datos
+Cliente --> Frontend --> API --> Base de Datos
 
 ## Integraciones
 

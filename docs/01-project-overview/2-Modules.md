@@ -17,11 +17,14 @@
 - Tickets
 
 ## Web
+- Authentication
 - Business
 - CandyStore
+- ChatAI
 - Cinemas
 - Events
 - FavoriteGenres
+- GetATicket
 - Home
 - Loyalty
 - MovieDetails
@@ -33,13 +36,15 @@
 - UpComing
 
 
-
 ## Mobile
+- Authentication
 - Business
 - CandyStore
+- ChatAI
 - Cinemas
 - Events
 - FavoriteGenres
+- GetATicket
 - Home
 - Loyalty
 - MovieDetails

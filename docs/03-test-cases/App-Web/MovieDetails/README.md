@@ -5,7 +5,7 @@
 Módulo: Movie Details
 Componente: Frontend Web
 Versión: v1.0
-Responsable: Equipo QA -
+Responsable: Equipo QA - Nombre:
 
 Última actualización: XX/XX/2026
 
