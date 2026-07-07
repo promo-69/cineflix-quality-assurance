@@ -3,7 +3,7 @@
 ## Información General
 
 Módulo: Business
-Componente: Frontend Web
+Componente: Frontend App Mobile
 Versión: v1.0
 Responsable: Equipo QA - Nombre:
 
@@ -31,10 +31,7 @@ Las pruebas documentadas en este módulo comprenden la validación de:
 - Navegación entre secciones.
 - Correcta visualización del contenido.
 - Consistencia visual.
-- Responsive Design.
 - Accesibilidad.
-- Compatibilidad entre navegadores.
-- Manejo de enlaces internos.
 
 No forman parte del alcance:
 
@@ -102,10 +99,6 @@ TC-BUS-043 – Verificar navegación utilizando el menú principal.
 
 ## Responsive Testing
 
-# Desktop
-TC-BUS-044 – Resolución 1920x1080.
-TC-BUS-045 – Resolución 1366x768.
-
 # Tablet
 TC-BUS-046 – Visualización en tablet vertical.
 TC-BUS-047 – Visualización en tablet horizontal.
@@ -145,13 +138,3 @@ TC-BUS-066 – Validar contraste de enlaces.
 # Multimedia
 TC-BUS-067 – Verificar texto alternativo de imágenes.
 TC-BUS-068 – Verificar accesibilidad de íconos.
-
-# Escalabilidad
-TC-BUS-069 – Aumentar tamaño del texto al 200%.
-TC-BUS-070 – Verificar que el contenido permanezca legible.
-
-
-## Compatibility Testing
-TC-BUS-071 – Google Chrome.
-TC-BUS-072 – Microsoft Edge.
-TC-BUS-073 – Mozilla Firefox.
