@@ -10,12 +10,12 @@ Current Coverage: Backend API, Frontend Web, Frontend Backoffice, Mobile Applica
 
 Testing Types
 
-✔ Functional Testing
-✔ Smoke Testing
-✔ Regression Testing
-✔ Exploratory Testing
-✔ API Testing
-✔ User Acceptance Testing
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- Exploratory Testing
+- API Testing
+- User Acceptance Testing
 
 Documentation
 
