@@ -8,15 +8,7 @@ Este repositorio contiene toda la documentación relacionada con el proceso de A
 
 ---
 ## Arquitectura General
-(API REST)
-↓
-Backoffice
-↓
-Web Cliente
-↓
-Aplicación Móvil
-↓
-Base de Datos
+(API REST) --> Backoffice --> Web Cliente --> Aplicación Móvil --> Base de Datos
 
 ---
 
