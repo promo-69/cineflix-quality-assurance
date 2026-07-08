@@ -3,7 +3,7 @@
 ## Información General
 
 Módulo: Payment/PaymentMethods
-Componente: Frontend Web
+Componente: Frontend App Mobile
 Versión: v1.0
 Responsable: Equipo QA - Nombre:
 
@@ -218,7 +218,7 @@ TC-PAY-116 – Actualizar estado de orden.
 TC-PAY-117 – Generar ticket.
 TC-PAY-118 – Generar QR.
 TC-PAY-119 – Registrar historial.
-TC-PAY-120 – Actualizar puntos.
+TC-PAY-120 – Actualizar CinePuntos.
 TC-PAY-121 – Actualizar inventario.
 TC-PAY-122 – HTTP 200.
 TC-PAY-123 – HTTP 400.
@@ -232,7 +232,6 @@ TC-PAY-130 – Error de conexión.
 
 
 ## Accessibility Testing
-TC-PAY-131 – Navegación mediante teclado.
 TC-PAY-132 – Orden correcto del foco.
 TC-PAY-133 – Lectura mediante lector de pantalla.
 TC-PAY-134 – Etiquetas accesibles en métodos.
@@ -240,14 +239,9 @@ TC-PAY-135 – Formularios accesibles.
 TC-PAY-136 – Mensajes de error accesibles.
 TC-PAY-137 – Contraste correcto.
 TC-PAY-138 – Botones accesibles.
-TC-PAY-139 – Escalado de texto.
 
 
 ## Responsive Testing
-
-# Desktop
-TC-PAY-140 – Resolución Full HD.
-TC-PAY-141 – Laptop.
 
 # Tablet
 TC-PAY-142 – Vertical.
@@ -264,5 +258,4 @@ TC-PAY-148 – Adaptación métodos pago.
 TC-PAY-149 – Adaptación formularios.
 TC-PAY-150 – Adaptación QR.
 TC-PAY-151 – Adaptación botones.
-TC-PAY-152 – Ausencia scroll horizontal.
-TC-PAY-153 – Correcta interacción táctil.
+TC-PAY-152 – Correcta interacción táctil.

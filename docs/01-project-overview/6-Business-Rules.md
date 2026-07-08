@@ -7,3 +7,4 @@
 
 # Payment:
 - Todo producto de confitería comprado debe retirarse el mismo día de la compra.
+- Todo proceso de compra desde la seleccion de asientos hasta el pago de la orden debe de realizarse en un máximo de 10min.

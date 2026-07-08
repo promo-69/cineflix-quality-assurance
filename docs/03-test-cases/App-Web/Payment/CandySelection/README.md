@@ -20,7 +20,7 @@ Las pruebas contemplan la selección de productos, modificación de cantidades, 
 
 # Alcance
 
-Las pruebas documentadas comprenden:
+Las pruebas documentadas para esta fase comprenden la validación de:
 
 - Acceso desde Seat Selection.
 - Carga de productos disponibles.
