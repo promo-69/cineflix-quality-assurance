@@ -3,7 +3,7 @@
 ## Información General
 
 Módulo: Payment/CandySelection
-Componente: Frontend Web
+Componente: Frontend App Mobile
 Versión: v1.0
 Responsable: Equipo QA - Nombre:
 
@@ -154,7 +154,8 @@ TC-CANDY-PAY-081 – Evitar pérdida accidental de información.
 
 
 ## Integration Testing
-Backend Candy Store
+
+# Backend Candy Store
 TC-CANDY-PAY-083 – Obtener productos disponibles.
 TC-CANDY-PAY-084 – Obtener inventario por sucursal.
 TC-CANDY-PAY-085 – Obtener precios actualizados.
@@ -175,21 +176,15 @@ TC-CANDY-PAY-099 – Error de conexión.
 
 
 ## Accessibility Testing
-TC-CANDY-PAY-100 – Navegación mediante teclado.
 TC-CANDY-PAY-101 – Orden correcto del foco.
 TC-CANDY-PAY-102 – Lectura mediante lector de pantalla.
 TC-CANDY-PAY-103 – Descripción accesible de productos.
 TC-CANDY-PAY-104 – Botones con etiquetas claras.
 TC-CANDY-PAY-105 – Contraste adecuado.
 TC-CANDY-PAY-106 – Tamaño correcto de botones táctiles.
-TC-CANDY-PAY-107 – Escalado de texto al 200%.
 
 
 ## Responsive Testing
-
-# Desktop
-TC-CANDY-PAY-108 – Visualización Full HD Desktop.
-TC-CANDY-PAY-109 – Visualización Laptop.
 
 # Tablet
 TC-CANDY-PAY-110 – Vista vertical.
@@ -206,4 +201,3 @@ TC-CANDY-PAY-116 – Adaptación del carrito.
 TC-CANDY-PAY-117 – Adaptación del resumen.
 TC-CANDY-PAY-118 – Adaptación de botones.
 TC-CANDY-PAY-119 – Correcta interacción táctil.
-TC-CANDY-PAY-120 – Ausencia de scroll horizontal.
