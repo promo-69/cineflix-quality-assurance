@@ -1,8 +1,8 @@
-# Authentication - Manual Test Cases
+# Billboard - Manual Test Cases
 
 ## Información General
 
-Módulo: Authentication
+Módulo: Billboard
 Componente: Frontend App Mobile
 Versión: v1.0
 Responsable: Equipo QA - Nombre:
