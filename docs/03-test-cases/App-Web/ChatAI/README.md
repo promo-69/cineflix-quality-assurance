@@ -3,7 +3,7 @@
 ## Información General
 
 Módulo: ChatAI
-Componente: Frontend App Mobile
+Componente: Frontend Web
 Versión: v1.0
 Responsable: Equipo QA - Nombre:
 
