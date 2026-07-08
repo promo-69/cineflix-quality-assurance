@@ -8,3 +8,6 @@
 # Payment:
 - Todo producto de confitería comprado debe retirarse el mismo día de la compra.
 - Todo proceso de compra desde la seleccion de asientos hasta el pago de la orden debe de realizarse en un máximo de 10min.
+
+# RoomRental
+- Toda solicitud realizada por el cliente debe ser realizada con un minimo de 2 semanas de anticipación.

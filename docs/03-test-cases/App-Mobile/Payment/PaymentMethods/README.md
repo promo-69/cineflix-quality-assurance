@@ -182,6 +182,17 @@ TC-PAY-091 – Actualizar CinePuntos.
 TC-PAY-092 – Descontar inventario de confitería.
 TC-PAY-093 – Mantener relación entre orden y usuario.
 
+# Generación del comprobante
+TC-PAY-153 – Generar automáticamente comprobante PDF después de una compra exitosa.
+TC-PAY-154 – Validar que el PDF sea generado únicamente después de confirmar el pago.
+TC-PAY-155 – Validar que una compra fallida no genere comprobante PDF.
+TC-PAY-156 – Validar que una compra cancelada no genere comprobante PDF.
+TC-PAY-157 – Validar que el PDF corresponda únicamente a la orden procesada.
+TC-PAY-158 – Validar que cada compra genere un comprobante independiente.
+TC-PAY-159 – Validar que el archivo generado tenga formato PDF.
+TC-PAY-160 – Validar que el archivo pueda abrirse correctamente.
+TC-PAY-161 – Validar que el PDF no esté corrupto.
+
 
 ## Information Testing
 TC-PAY-094 – Validar información de la orden.
@@ -196,6 +207,35 @@ TC-PAY-102 – Validar información del ticket.
 TC-PAY-103 – Validar fecha de retiro de confitería.
 TC-PAY-104 – Validar ortografía.
 TC-PAY-105 – Validar formato monetario.
+
+# Información contenida dentro del PDF
+TC-PAY-163 – Validar nombre del cliente dentro del PDF.
+TC-PAY-164 – Validar correo del cliente.
+TC-PAY-165 – Validar número de orden.
+TC-PAY-166 – Validar fecha de compra.
+TC-PAY-167 – Validar método de pago utilizado.
+TC-PAY-168 – Validar información de película.
+TC-PAY-169 – Validar información de función.
+TC-PAY-170 – Validar información de asientos.
+TC-PAY-171 – Validar productos de confitería.
+TC-PAY-172 – Validar total de compra.
+TC-PAY-173 – Validar información del QR.
+TC-PAY-174 – Validar formato visual del documento.
+TC-PAY-175 – Validar legibilidad del PDF.
+
+# Envío por correo electrónico
+TC-PAY-176 – Enviar comprobante al correo registrado del usuario.
+TC-PAY-177 – Validar que el correo utilizado corresponda al usuario autenticado.
+TC-PAY-178 – Validar recepción del correo después de compra exitosa.
+TC-PAY-179 – Validar asunto del correo.
+TC-PAY-180 – Validar contenido del correo.
+TC-PAY-181 – Validar existencia del archivo adjunto PDF.
+TC-PAY-182 – Validar descarga del PDF desde el correo.
+TC-PAY-183 – Validar apertura del PDF descargado.
+TC-PAY-184 – Validar que el correo no sea enviado múltiples veces.
+TC-PAY-185 – Validar comportamiento cuando el servicio de correo falla.
+TC-PAY-186 – Mostrar mensaje si el correo no pudo enviarse.
+TC-PAY-187 – Permitir consultar posteriormente el comprobante desde Purchase History.
 
 
 ## Navigation Testing
