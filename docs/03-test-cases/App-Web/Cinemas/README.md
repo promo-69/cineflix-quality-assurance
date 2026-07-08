@@ -47,7 +47,7 @@ TC-CIN-001 – Visualizar correctamente la lista de sucursales.
 TC-CIN-002 – Verificar que todas las sucursales activas sean mostradas.
 TC-CIN-003 – Verificar comportamiento cuando no existen sucursales disponibles.
 TC-CIN-004 – Verificar orden de visualización de las sucursales.
-// (En conversaciones, dejar al final) TC-CIN-005 – Verificar que cada tarjeta de sucursal muestre su imagen.
+TC-CIN-005 – Verificar que cada tarjeta de sucursal muestre su imagen.
 TC-CIN-006 – Verificar nombre de la sucursal.
 TC-CIN-007 – Verificar dirección.
 TC-CIN-008 – Verificar horario de atención.
@@ -132,7 +132,7 @@ TC-CIN-070 – Navegación mediante teclado.
 TC-CIN-071 – Orden correcto del foco.
 TC-CIN-072 – Indicador visual del foco.
 TC-CIN-073 – Lectura correcta mediante lectores de pantalla.
-(Esta en veremos, dejar de ultimo) TC-CIN-074 – Texto alternativo para imágenes de sucursales.
+TC-CIN-074 – Texto alternativo para imágenes de sucursales.
 TC-CIN-075 – Texto alternativo para imágenes de películas.
 TC-CIN-076 – Contraste adecuado entre texto y fondo.
 TC-CIN-077 – Contraste de botones y enlaces.
