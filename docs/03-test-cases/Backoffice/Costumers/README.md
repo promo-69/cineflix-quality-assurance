@@ -86,11 +86,6 @@ TC-CUST-051 – No permitir modificar manualmente los CinePuntos acumulados desd
 TC-CUST-052 – No permitir modificar el nivel de fidelidad directamente (debe calcularse automáticamente conforme a las reglas del programa de fidelización).
 TC-CUST-053 – No permitir editar clientes eliminados o inactivos si la política del sistema lo restringe.
 
-# Auditoría ---------------------------
-TC-CUST-054 – Registrar la fecha de la última modificación.
-TC-CUST-055 – Registrar el usuario administrativo que realizó la modificación.
-TC-CUST-056 – Mantener trazabilidad de los cambios realizados.
-
 
 ## Information Testing
 TC-CUST-INF-001 – Mostrar correctamente el nombre completo.
