@@ -1,10 +1,8 @@
-# Employees
- - Manual Test Cases
+# Employees - Manual Test Cases
 
 ## Información General
 
 Módulo: Employees
-
 Componente: Frontend Backoffice
 Versión: v1.0
 Responsable: Equipo QA - Nombre:
