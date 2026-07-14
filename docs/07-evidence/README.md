@@ -1,0 +1,1 @@
+## Aqui muchachos colocan anexadas todas las imagenes (no dentro del readme, solo de la carpeta)
