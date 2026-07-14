@@ -5,9 +5,9 @@
 Módulo: Home
 Componente: Frontend App Mobile
 Versión: v1.0
-Responsable: Equipo QA - Nombre:
+Responsable: Equipo QA - Nombre: Jennifer Ramirez
 
-Última actualización: XX/07/2026
+Última actualización: 14/07/2026
 
 ---
 ## Objetivo
