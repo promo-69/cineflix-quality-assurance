@@ -1,0 +1,9 @@
+## Prioridad (¿Qué tan rápido debe arreglarse?)
+Es una decisión de negocio dictada generalmente por los Product Managers, líderes de proyecto o los propios clientes. Define la urgencia en la cola de trabajo, basándose en el impacto comercial, el número de usuarios afectados o los plazos de entrega.
+
+Alta (High/P1): Debe arreglarse de inmediato porque afecta directamente las ventas, la seguridad o a una gran masa de usuarios.
+Media (Medium/P2): Debe solucionarse pronto, pero puede esperar a la próxima actualización o ciclo de desarrollo.
+Baja (Low/P3): Se resolverá cuando haya tiempo disponible, ya que no afecta la experiencia principal.
+
+
+dame la informacion que te proporciono en formato .md, pero que pueda copiar y pegar en el archivo
