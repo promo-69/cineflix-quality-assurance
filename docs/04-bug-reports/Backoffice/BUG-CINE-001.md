@@ -3,7 +3,7 @@
 Al momento de crear una sucursal, hace falta el campo de agregar la imagen "facade_url"
 ## Módulo: Cinemas- Backoffice
 
-## Tipo: UI y UX
+## Tipo: Integración
 
 ## Prioridad: Baja
 
