@@ -64,13 +64,13 @@ El sistema registra al cliente exitosamente. Muestra los datos del cliente y ava
 
 ## Resultado obtenido
 
-Pendiente
+Cliente registrado exitosamente con todos los campos. Los datos se muestran correctamente en el card de confirmación. Avanza al catálogo de productos.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

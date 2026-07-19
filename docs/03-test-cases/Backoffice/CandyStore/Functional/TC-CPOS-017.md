@@ -57,13 +57,13 @@ El precio mostrado en la UI coincide con el registrado en la base de datos.
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

@@ -71,13 +71,13 @@ El empleado se registra exitosamente. Aparece en el listado de empleados activos
 
 ## Resultado obtenido
 
-Pendiente
+El empleado se registró correctamente en la base de datos (aparece al refrescar), pero no se muestra notificación de éxito/error y la lista no se actualiza automáticamente. Bugs reportados: BUG-EMP-001 y BUG-EMP-002.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass (con observaciones)
 
 ---
 

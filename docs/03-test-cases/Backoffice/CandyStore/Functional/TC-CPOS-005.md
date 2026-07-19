@@ -62,13 +62,13 @@ Mensaje de error indicando que el formato del correo no es válido.
 
 ## Resultado obtenido
 
-Pendiente
+El sistema mostró error de validación al ingresar un correo con formato inválido. No permite continuar.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

@@ -61,13 +61,13 @@ Mensaje de error indicando que el apellido es obligatorio.
 
 ## Resultado obtenido
 
-Pendiente
+Validado junto con TC-CPOS-003. El sistema valida "Nombre y apellido son obligatorios" en conjunto. Si falta el apellido, muestra el mismo error.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

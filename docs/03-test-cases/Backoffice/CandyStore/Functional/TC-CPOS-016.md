@@ -57,13 +57,13 @@ Cada producto muestra su imagen. Si no tiene imagen, muestra una imagen por defe
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

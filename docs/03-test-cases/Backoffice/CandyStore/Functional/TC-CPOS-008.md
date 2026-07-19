@@ -62,13 +62,13 @@ La compra queda asociada al cliente recién registrado. El nombre del cliente ap
 
 ## Resultado obtenido
 
-Pendiente
+La compra quedó asociada al cliente recién registrado. El resumen de venta muestra el nombre correctamente.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

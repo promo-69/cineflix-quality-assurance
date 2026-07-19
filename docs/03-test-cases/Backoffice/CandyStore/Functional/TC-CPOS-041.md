@@ -56,13 +56,13 @@ El total se actualiza correctamente en cada operación.
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

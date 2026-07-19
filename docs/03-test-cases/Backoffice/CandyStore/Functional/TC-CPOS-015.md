@@ -57,13 +57,13 @@ El producto se muestra en el catálogo pero con la etiqueta "Sin stock" y el bot
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

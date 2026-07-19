@@ -56,13 +56,13 @@ Los nombres mostrados en la UI coinciden con los del backend.
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

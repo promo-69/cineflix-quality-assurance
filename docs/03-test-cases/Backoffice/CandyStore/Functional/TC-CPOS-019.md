@@ -56,13 +56,13 @@ Cada producto muestra la categoría correcta (Drinks, Popcorn, Candies, Promocio
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

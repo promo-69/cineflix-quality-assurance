@@ -61,13 +61,13 @@ El sistema muestra un mensaje de error indicando que el nombre es obligatorio. N
 
 ## Resultado obtenido
 
-Pendiente
+El sistema mostró "Nombre y apellido son obligatorios" al intentar registrar sin nombre. No permite continuar.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

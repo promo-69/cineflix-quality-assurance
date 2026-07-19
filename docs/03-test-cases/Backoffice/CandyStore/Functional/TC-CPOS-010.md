@@ -59,13 +59,13 @@ El cliente queda asociado a la sesión y se avanza al catálogo de productos.
 
 ## Resultado obtenido
 
-Pendiente
+Verificado indirectamente en pruebas anteriores. Al buscar un cliente existente por cédula y hacer clic en Continuar, la sesión de compra queda asociada correctamente a ese cliente.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

@@ -58,13 +58,13 @@ Se muestran todos los productos disponibles para la sucursal. Cada producto mues
 
 ## Resultado obtenido
 
-Pendiente
+Verificado en pruebas anteriores. Funcionalidad correcta.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 

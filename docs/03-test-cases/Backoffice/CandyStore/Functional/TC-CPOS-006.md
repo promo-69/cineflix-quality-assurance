@@ -62,13 +62,13 @@ Mensaje de error indicando que el formato del teléfono no es válido (solo núm
 
 ## Resultado obtenido
 
-Pendiente
+Error de validación al ingresar letras en el campo de teléfono. El sistema solo permite números, máximo 11 dígitos.
 
 ---
 
 ## Estado
 
-Not Executed
+Pass
 
 ---
 
