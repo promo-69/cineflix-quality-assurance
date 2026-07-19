@@ -5,9 +5,8 @@
 Módulo: Employees
 Componente: Frontend Backoffice
 Versión: v1.0
-Responsable: Equipo QA - Nombre:
-
-Última actualización: XX/07/2026
+Responsable: Equipo QA - Alexis
+Última actualización: 13/07/2026
 
 ---
 
